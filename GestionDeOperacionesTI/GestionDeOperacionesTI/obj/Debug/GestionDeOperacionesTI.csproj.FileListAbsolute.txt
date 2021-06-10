@@ -1,0 +1,78 @@
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\bin\Debug\GestionDeOperacionesTI.exe.config
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\bin\Debug\GestionDeOperacionesTI.exe
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\bin\Debug\GestionDeOperacionesTI.pdb
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.Login.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.Properties.Resources.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.exe
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.pdb
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\bin\Debug\LibreriaBD.dll
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMenuDocente.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMenuJefe.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMenuAdministrador.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMenuTecnico.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.csproj.CopyComplete
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmEditaPerfil.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmInicio.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaCI.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaDepartamento.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaEmpleado.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmBajaCI.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmBajaDepartamento.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmBajaEmpleado.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmUpdateCI.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmUpdateDepartamento.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmUpdateEmpleado.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmConsultaCI.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmConsultaEmpleado.resources
+C:\Users\crist\source\repos\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmConsultaDepartamento.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\bin\Debug\GestionDeOperacionesTI.exe.config
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\bin\Debug\GestionDeOperacionesTI.exe
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\bin\Debug\GestionDeOperacionesTI.pdb
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\bin\Debug\LibreriaBD.dll
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.csprojAssemblyReference.cache
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaCI.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaDepartamento.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaEmpleado.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmBajaCI.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmBajaDepartamento.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmBajaEmpleado.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmConsultaCI.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmConsultaEmpleado.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmEditaPerfil.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmConsultaDepartamento.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmInicio.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMenuDocente.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMenuJefe.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMenuAdministrador.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMenuTecnico.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmUpdateCI.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmUpdateDepartamento.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmUpdateEmpleado.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.Login.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.Properties.Resources.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.csproj.GenerateResource.cache
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.csproj.CopyComplete
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.exe
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.pdb
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaIncidenciaCI.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaIncidenciaRed.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAprobarIncidencia.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAsignarIncidencia.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmEvaluarIncidencia.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaIncidencia.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmTiempoRespuestaIncidencia.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmLiberarIncidencia.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMisReportes.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmRetroalimentacion.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmActualizacionCI.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaProblemasConocidos.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmVerProblemasConocidos.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAltaIncidenciaSO.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmAutorizaCambios.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmMisSolicitudesCambio.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmSolicitaCambio.resources
+C:\Users\crist\Documents\GESTION DE OPERACIONES DE TI\GestionDeOperacionesTI\GestionDeOperacionesTI\obj\Debug\GestionDeOperacionesTI.frmVerCambios.resources
